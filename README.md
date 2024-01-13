@@ -1,10 +1,10 @@
-# 成绩管理系统
+# 成绩管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ： **成绩2**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**成绩**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,31 +35,23 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121254680.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208121254680.jpg)
 
 ### 4.2学生 模块
 
-![学生界面1 ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121254476.jpg)
+![学生界面1 ](https://www.codeshop.fun/Typora-Images/202208121254476.jpg)
 
-![学生界面2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121254032.jpg)
+![学生界面2](https://www.codeshop.fun/Typora-Images/202208121254032.jpg)
 
 ### 4.3 教师模块
 
-![教师-成绩查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121255342.jpg)
+![教师-成绩查询](https://www.codeshop.fun/Typora-Images/202208121255342.jpg)
 
-![教师-主界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121255233.jpg)
+![教师-主界面](https://www.codeshop.fun/Typora-Images/202208121255233.jpg)
 
-![教师-添加成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121255574.jpg)
+![教师-添加成绩](https://www.codeshop.fun/Typora-Images/202208121255574.jpg)
 
-![教师-成绩排序](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121255562.jpg)
+![教师-成绩排序](https://www.codeshop.fun/Typora-Images/202208121255562.jpg)
 
-![教师-查看学生成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121255486.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**成绩2**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![教师-查看学生成绩](https://www.codeshop.fun/Typora-Images/202208121255486.jpg)
 
